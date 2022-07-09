@@ -1,2 +1,2 @@
-# PSProfile_CurrentUserAllHosts
-This is a public backup of my current PowerShell CurrentUserAllHosts profile
+# PSProfile_CurrentUserCurrentHost
+This is a public backup of my current PowerShell CurrentUserCurrentHost profile
